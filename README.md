@@ -238,3 +238,8 @@ class ApplicationController:
     def run(self) -> None:
         ...
 ```
+## 👥 Autores
+
+- **Ladi Yolima Martínez Quiñones** — 20231020197  
+- **Juan Esteban Ariza Ortiz** — 20241020005  
+- **Jorge Miguel Méndez Barón** — 20241020030
